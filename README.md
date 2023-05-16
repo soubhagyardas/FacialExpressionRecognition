@@ -18,3 +18,8 @@
 - Displays the emotion above the rectangular box, which displays face like below.
 
 ![image](https://github.com/soubhagyardas/FacialExpressionRecognition/assets/47771334/2546b9f7-09f0-42ba-9363-1a41e5fc8fe3)
+
+**What's next**
+- Improve the accuracy by making manipulations to the deep learning model.
+- Build an indutry level application (web application), hosted on some servers for real-time accurate prediction of expressions.
+- Research on some pre-built models for expression recognition and leverage transfer learning concept for better model accuracy.
